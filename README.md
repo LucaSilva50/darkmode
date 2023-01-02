@@ -1,6 +1,6 @@
 # Light Mode / Dark Mode JavaScript
 
-##Descrição
+## Descrição
 Projeto modo dark/light, criado para a prática de manipulação de DOM com o JavaScript
 
 
