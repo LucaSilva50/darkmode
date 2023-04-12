@@ -5,7 +5,7 @@ Projeto modo dark/light, criado para a prática de manipulação de DOM com o Ja
 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/gif_darkmode.gif"/>
+  <img alt="Prévia de utilização do Darkmode" src="./assets/gif_darkmode.gif"/ width="300px">
 </h1>
 
 ### 🛠 Tecnologias
